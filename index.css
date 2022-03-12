@@ -1,0 +1,110 @@
+
+body{
+    background: linear-gradient(to bottom right, #ffccff 0%, #ffffcc 100%);
+}
+
+
+#container{
+          float: left;
+          width: 40%;
+          background-color: black;
+          height: 700px;
+          border-radius: 10px;
+          background: linear-gradient(to right, #3399ff 0%, #ccffff 100%);
+
+}
+
+
+#container1{
+    float: right;
+    width: 60%;
+    background: linear-gradient(to right, #ff0066 0%, #ff00ff 100%);
+    height: 700px;
+   overflow-y: scroll;
+    border-radius: 10px;
+    
+
+    
+}
+
+#search{
+         text-align: center;
+         height: 40px;
+         width: 400px;
+         border-radius: 30px;
+         margin: 10px 0px 0px 100px;
+}
+
+h1{
+     text-align: center;
+     color: white;
+     
+}
+h3{
+    color: white;
+}
+p{
+    
+   font-size: medium;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+li{
+    color: black;
+    list-style: none;
+    font-size: medium;
+}
+button{
+    background: linear-gradient(to right, #3399ff 0%, #ccffff 100%);
+    border: none;
+}
+
+#div1{
+    background-color: red;
+}
+
+#container3 .show {
+   visibility: visible;
+    
+}
+
+#demo{
+       font-size: medium;
+       margin: 30px 30px 0px 30px;
+       border-radius: 30px;
+       padding: 10px;
+}
+
+
+#demo1{
+    
+    margin: 30px 30px 0px 30px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+
+#demo2{
+    
+    margin: 30px 30px 0px 30px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+
+#demo3{
+   
+    margin: 30px 30px 0px 30px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+
+#demo4{
+    
+    margin: 30px 30px 0px 30px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+
